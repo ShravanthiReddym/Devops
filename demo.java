@@ -4,6 +4,10 @@ class Demo
   {
    a+b
   }
+  void sub()
+  {
+   a-b
+  }
  void DEPOSIT()
  {
  }
